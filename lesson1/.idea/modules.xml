@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OnlineExamSystem/OnlineExamSystem.iml" filepath="$PROJECT_DIR$/../OnlineExamSystem/OnlineExamSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson3/httpResponse/httpResponse.iml" filepath="$PROJECT_DIR$/../lesson3/httpResponse/httpResponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson1.iml" filepath="$PROJECT_DIR$/lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson2/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/../lesson2/lifecycle/lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lesson3/response/response.iml" filepath="$PROJECT_DIR$/../lesson3/response/response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serveltContext/serveltContext.iml" filepath="$PROJECT_DIR$/serveltContext/serveltContext.iml" />
+    </modules>
+  </component>
+</project>
